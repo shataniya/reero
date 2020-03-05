@@ -1,0 +1,9 @@
+{
+  "name": "reero",
+  "version": "1.0.0",
+  "description": "Handling http and https requests",
+  "main": "reero.js",
+  "repository": "https://github.com/shataniya/reero",
+  "author": "shataniya",
+  "license": "MIT"
+}
